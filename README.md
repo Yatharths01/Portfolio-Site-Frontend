@@ -1,1 +1,2 @@
 # Portfolio-Site-Frontend
+This is one of my initials project on which I worked while exploring various frontend methods. This is a reponsive portfolio site which is made up of HTML,CSS and JS. I've primarily made this while learning about W3-CSS and simplified version of CSS made by W3schools to help in easy designing and implementation of CSS by providing fix CSS on classes. This is FrontEnd only yet in which I've tried to add as many different tags as possible along with a reponsive and good looking NavBar and also providing option of Themechange using JS. 
